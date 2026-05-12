@@ -1,0 +1,111 @@
+[2026-04-19 07:10:35.864092] Servicio de sala creado: Sala Premium
+[2026-04-19 07:11:19.210983] Servicio de alquiler creado: Computadores
+[2026-04-20 16:41:26.548056] Asesoría creada: Consultoría
+[2026-04-21 19:23:33.940073] Cliente registrado: juan
+[2026-04-22 10:23:36.023853] Reserva confirmada para juan
+[2026-04-22 11:01:28] [INFO] Sistema de logs inicializado correctamente
+[2026-05-01 15:01:36] [ERROR] Error registrando cliente: El correo electrónico es inválido
+[2026-05-01 15:01:40] [ERROR] Error registrando cliente: El correo electrónico es inválido
+[2026-05-01 15:01:43] [ERROR] Error registrando cliente: El teléfono debe tener entre 7 y 15 dígitos
+[2026-05-01 15:01:46] [INFO] Cliente registrado: Sad
+[2026-05-01 15:01:51] [INFO] Servicio de sala creado: Sala Premium
+[2026-05-01 15:01:52] [INFO] Servicio de alquiler creado: Computadores
+[2026-05-01 15:01:53] [INFO] Asesoría creada: Consultoría
+[2026-05-01 15:01:55] [INFO] Reserva confirmada para Sad
+[2026-05-01 15:01:56] [INFO] Reserva confirmada para Sad
+[2026-05-01 15:01:59] [INFO] Reserva confirmada para Sad
+[2026-05-01 15:02:01] [INFO] Reserva confirmada para Sad
+[2026-05-02 19:08:23] [INFO] Sistema de logs inicializado correctamente
+[2026-05-02 19:08:53] [INFO] Sistema de logs inicializado correctamente
+[2026-05-02 19:09:03] [INFO] Servicio de sala creado: Sala Premium
+[2026-05-02 19:09:06] [INFO] Servicio de alquiler creado: Computadores
+[2026-05-02 19:09:08] [INFO] Asesoría creada: Consultoría
+[2026-05-03 18:25:15] [INFO] Sistema de logs inicializado correctamente
+[2026-05-03 18:27:33] [INFO] Sistema de logs inicializado correctamente
+[2026-05-03 18:32:35] [INFO] Sistema de logs inicializado correctamente
+[2026-05-03 18:37:48] [INFO] Sistema de logs inicializado correctamente
+[2026-05-03 18:37:51] [ERROR] Error registrando cliente: El correo electrónico es inválido
+[2026-05-03 18:37:57] [ERROR] Error registrando cliente: El teléfono debe contener solo números
+[2026-05-03 18:38:00] [ERROR] Error registrando cliente: El teléfono debe tener entre 7 y 15 dígitos
+[2026-05-03 18:38:02] [INFO] Cliente registrado: Asd
+[2026-05-03 18:41:18] [INFO] Sistema de logs inicializado correctamente
+[2026-05-03 18:41:25] [WARNING] Validación fallida en sala: La capacidad debe ser numérica
+[2026-05-03 18:41:34] [WARNING] Validación fallida en sala: La tarifa debe ser numérica
+[2026-05-03 18:41:40] [INFO] Servicio de sala creado: asd
+[2026-05-03 18:41:40] [INFO] Sala registrada: asd
+[2026-05-03 18:51:36] [INFO] Sistema de logs inicializado correctamente
+[2026-05-03 18:51:45] [WARNING] Validación fallida en sala: La capacidad debe ser numérica
+[2026-05-03 18:51:53] [INFO] Servicio de sala creado: asd
+[2026-05-03 18:51:53] [INFO] Sala registrada: asd
+[2026-05-03 18:52:07] [INFO] Servicio de alquiler creado: asd
+[2026-05-03 18:52:07] [INFO] Equipo registrado: asd
+[2026-05-03 18:52:22] [INFO] Asesoría creada: asd
+[2026-05-03 18:52:22] [INFO] Asesoría registrada: asd
+[2026-05-03 18:55:10] [INFO] Sistema de logs inicializado correctamente
+[2026-05-03 18:55:17] [WARNING] Validación fallida en sala: La capacidad debe ser numérica
+[2026-05-03 18:59:05] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:16:39] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:17:01] [ERROR] Error registrando cliente: El correo electrónico es inválido
+[2026-05-11 20:17:03] [ERROR] Error registrando cliente: El teléfono debe contener solo números
+[2026-05-11 20:17:05] [ERROR] Error registrando cliente: El teléfono debe tener entre 7 y 15 dígitos
+[2026-05-11 20:17:09] [INFO] Cliente registrado: Asd
+[2026-05-11 20:17:23] [INFO] Servicio de sala creado: asd
+[2026-05-11 20:17:23] [INFO] Sala registrada: asd
+[2026-05-11 20:17:32] [WARNING] Validación fallida en asesoría: La experiencia debe ser numérica
+[2026-05-11 20:17:39] [INFO] Asesoría creada: sad
+[2026-05-11 20:17:39] [INFO] Asesoría registrada: sad
+[2026-05-11 20:18:10] [INFO] Reserva confirmada para Asd
+[2026-05-11 20:18:10] [ERROR] Error reserva: 'tuple' object has no attribute 'confirmar'
+[2026-05-11 20:18:16] [INFO] Reserva confirmada para Asd
+[2026-05-11 20:18:16] [ERROR] Error reserva: 'tuple' object has no attribute 'confirmar'
+[2026-05-11 20:22:10] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:28:44] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:30:08] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:30:48] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:34:27] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:34:35] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:34:36] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:34:37] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:34:38] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:34:39] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:34:40] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:34:41] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:35:16] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:37:27] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:39:50] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:42:15] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:46:24] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:46:57] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:48:27] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:49:03] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 20:49:15] [ERROR] Error registrando cliente: El teléfono debe tener entre 7 y 15 dígitos
+[2026-05-11 20:49:18] [INFO] Cliente registrado: Asd
+[2026-05-11 21:01:46] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 21:03:09] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 21:04:26] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 21:06:07] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 21:06:44] [INFO] Servicio de sala creado: sala
+[2026-05-11 21:06:44] [INFO] Sala registrada: sala
+[2026-05-11 21:07:13] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 21:13:14] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 22:07:09] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 22:07:20] [WARNING] Validación reserva: Debe seleccionar un cliente
+[2026-05-11 22:07:25] [INFO] Reserva confirmada para Laura Martinez
+[2026-05-11 22:07:25] [ERROR] Error reserva: Error al confirmar la reserva
+[2026-05-11 22:07:28] [INFO] Reserva confirmada para Laura Martinez
+[2026-05-11 22:07:28] [ERROR] Error reserva: Error al confirmar la reserva
+[2026-05-11 22:07:34] [INFO] Reserva confirmada para Andres Torres
+[2026-05-11 22:07:34] [ERROR] Error reserva: Error al confirmar la reserva
+[2026-05-11 22:07:37] [INFO] Reserva confirmada para Andres Torres
+[2026-05-11 22:07:37] [ERROR] Error reserva: Error al confirmar la reserva
+[2026-05-11 22:09:13] [INFO] Sistema de logs inicializado correctamente
+[2026-05-11 22:09:21] [INFO] Reserva confirmada para Laura Martinez
+[2026-05-11 22:09:21] [INFO] Reserva creada: Laura Martinez
+[2026-05-11 22:11:34] [INFO] Sistema de logs inicializado correctamente
+[2026-05-12 12:05:53] [INFO] Sistema de logs inicializado correctamente
+[2026-05-12 12:19:06] [INFO] Sistema de logs inicializado correctamente
+[2026-05-12 12:20:29] [INFO] Sistema de logs inicializado correctamente
+[2026-05-12 13:30:03] [INFO] Sistema de logs inicializado correctamente
+[2026-05-12 13:31:43] [INFO] Sistema de logs inicializado correctamente
+[2026-05-12 13:32:00] [INFO] Reserva confirmada para Carlos Ramirez
+[2026-05-12 13:32:00] [INFO] Reserva creada: Carlos Ramirez
